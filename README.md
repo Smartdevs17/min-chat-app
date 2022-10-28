@@ -1,5 +1,5 @@
 # Application - Mini Chat APP
-###This is mini chat application built with nodejs. It allows user to join a group and chat with one another in that group and also send locations.
+###This is a mini chat application built with nodejs. It allows user to join a group and chat with one another in that group and also send locations.
 
 
 ## Setting up the Application
